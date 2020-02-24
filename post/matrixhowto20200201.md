@@ -25,7 +25,6 @@ Los geht's:
     8. Gib im nächsten Fenster deinen gewünschten Benutzernamen und Passwort an. 
        Obacht! E-Mail oder Telefonnummer sind nicht(!) notwendig! Diese Daten würden an den Identity Server aus Schritt 6 gehen, der nicht in unserer Hoheit liegt!
     9. Wähle _Register_
-   10.  
 
 
 
