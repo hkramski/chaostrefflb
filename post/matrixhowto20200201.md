@@ -27,4 +27,8 @@ Los geht's:
     9. Wähle _Register_
 
 
+Hat alles geklappt, solltest du auf dem Matrix-Server sein. Oben links in der Sidebar wählst du Explore aus und kannst zum Beispiel dem Raum Chaostreff beitreten oder eigene Räume erstellen. Natürlich sind auch 1:1-Räume möglich, man kann also direkt andere Menschen anschreiben.
 
+Ein wichtiger Punkt noch: Matrix-Server sind, wie alle Dienste mit Registrierung, anfällig für Spambots. Die einzig stabile Abwehr ist hier (afaik) reCAPTCHA von Google - was wir nicht wollen. Daher lassen wir die Registrierung nun nur für ein paar Tage offen und beobachten das System. Danach deaktivieren wir die Registrierung! Wenn du dann drauf willst, schreib uns bitte per Mail an. @ampoffcom arbeitet an einer Alternative, das dauert aber noch ein bisschen.
+
+Ein Satz noch zum Identity Server: Das ist nichts schlechtes, sondern ermöglicht es, auch auf anderen Matrix-Instanzen gefunden werden zu können. Das kann man machen, muss man aber nicht.
