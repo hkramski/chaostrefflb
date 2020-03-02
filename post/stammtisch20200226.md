@@ -1,3 +1,9 @@
+---
+date: "2020-03-02"
+tages: ["chaostreff", "veranstaltung"]
+title: "Kurzprotokoll 26.02.2020 und Linkliste"
+---
+
 Der zweite Stammtisch ist geschafft, recht konstant mit 9 Menschen, und es war neben alten Hasen auch ein Interessierter da (der bestimmt wieder kommt :)  
 
 Es hat sich auch gezeigt, dass der Chaostreff Ludwigsburg nicht nur ein lockerer Stammtisch sein will, sondern sich auch in und um Ludwigsburg in digitale Themen politisch und gesellschaftlich einbringen will. Wie das genau aussehen kann, wird sich ergeben.
