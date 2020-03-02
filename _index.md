@@ -8,4 +8,4 @@ Der Chaostreff Ludwigsburg ist ein lockeres Zusammentreffen von Hackern, die sic
 
 
 #### Wann und Wo trefft ihr euch?
-26.02.2020 - 19:42 - DemoZ Ludwigsburg
+25.03.2020 - 19:42 - DemoZ Ludwigsburg
