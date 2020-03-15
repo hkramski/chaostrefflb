@@ -11,7 +11,6 @@ Allgemeine Infos zu Matrix gibt es bei Wikipedia oder beim nächsten Chaostreff.
 
 Matrix ist ein offenes Kommunikationsprotokoll, für das es mehrere Clients gibt. Die folgende Anleitung verwendet riot.im und zwar im Browser. Es gibt diesen Client auch für iOS und Android, aus den jeweiligen Stores sowie bei F-Droid und als Desktop-App (Electron).
 
-Google reCAPTCHA Hinweis:
 
 Los geht's:
 
