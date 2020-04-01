@@ -12,7 +12,7 @@ Vortrag von Harvey, danke nochmal!
 1. Der Standard-Jitsi-Server bei Matrix war überlastet, daher treffen wir uns nun auf einer eigenen Instanz, Link bei
    Matrix
    
-2. Harvey hat dann den tollen Vortrag "Shell-Health-Check" oder "Wie ich (wieder) lernte, die Shell zu lieben",
+2. Harvey hat dann den tollen Vortrag "Shell-Health-Check" oder "Wie ich (wieder) lernte, die Shell zu lieben", gehalten
    [Download PDF](CompLB-Kramski-Shell-Check-20200325_v02.pdf)
    
 3. Cygwin [https://www.cygwin.com/](https://www.cygwin.com/)
