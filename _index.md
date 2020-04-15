@@ -4,7 +4,7 @@ icon: "fa-group"
 weight: 1
 ---
 
-<img src="logo.jpeg" class="center" width="200" height="100">
+<img src="logo.jpeg" class="center" width="300" height="300">
 
 #### Um was gehts?
 Der Chaostreff Ludwigsburg ist ein lockeres Zusammentreffen von Hackern, die sich dem CCC nahefühlen.
