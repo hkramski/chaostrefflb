@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 icon: "fa-group"
 weight: 1
 ---
