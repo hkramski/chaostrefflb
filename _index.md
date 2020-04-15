@@ -1,5 +1,5 @@
 ---
-title: "Chaostreff Ludwigsburg"
+title: " "
 icon: "fa-group"
 weight: 1
 ---
