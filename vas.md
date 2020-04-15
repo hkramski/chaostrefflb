@@ -3,7 +3,7 @@ date: "2020-04-14"
 title: "Veranstaltungen"
 ---
 
-Der Chaostreff LB bietet immer wieder kürzere und längere Vorträge an. Vergangene und zukünftige Talks findet ihr hier.
+Der Chaostreff LB bietet immer wieder kürzere und längere Vorträge an, vergangene und zukünftige Talks findet ihr hier.
 
 Da wegen Covid-19 aktuell keine Treffen im Meatspace stattfinden, könnt ihr alle Talks bequem zu Hause per Jitsi
 ansehen.
