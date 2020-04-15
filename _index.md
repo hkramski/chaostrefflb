@@ -18,4 +18,4 @@ Der nächste RL-Termin steht auf Grund von Covid-19 noch nicht fest. Aktuell tri
 Du erreichst uns außerdem per Mail über chaostreff AT complb PUNKt de
 
 
-Im Rahmen des Chaostreffs gibt es auch immer wieder Kurzvorträge, mehr Infos dazu unter https://complb.de/veranstaltungen
+Im Rahmen des Chaostreffs gibt es auch immer wieder Kurzvorträge, mehr Infos dazu unter https://complb.de/vas
