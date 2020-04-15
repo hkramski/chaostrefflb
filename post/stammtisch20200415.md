@@ -9,8 +9,8 @@ Der heutige Chaostreff mit 4 Menschen war zwar nicht der meistbesuchte, aber der
 
 Chaostreff-relevante Punkte:
 
-1. Ein Chaostreff alle zwei Wochen - online oder im RL - dürfte ein vernünftiger Rhythmus sein. Wan wir damit starten,
-   klären wir noch. Der nächste findet am 22.04. statt, mit Kurzvortrag
+1. Ein Chaostreff alle zwei Wochen - online oder im RL - dürfte ein vernünftiger Rhythmus sein. Wann wir damit starten,
+   klären wir noch. Der nächste Chaostreff findet am 22.04. statt, mit Kurzvortrag.
    
 2. Es gibt ab heute eine Vortragsseite auf der Homepage, die gerne beworben werden darf https://complb.de/vas/ Ideen
    für weitere (Kurz-)Vorträge sind immer willkommen!
