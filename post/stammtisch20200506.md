@@ -20,7 +20,8 @@ Einige Themen mit und ohne Links:
    Raspberry Pi. Links zum [Jupyter-Notebook](motivation_matrix_mult.ipynb), [C-Code](matrix_matrix.c) und zur [Präsentation als Markdown](CCC_Why_what_is_SIMD.md)
 2. Go für kleine Plätze [TinyGo](https://tinygo.org/)
 3. Zooms Datenschutzbeurteilungen waren ein Thema (die jetzt doch irgendwie halb DSGVO-konform sind)
-3. ...
+4. Iridium Browser [Link](https://iridiumbrowser.de/)
+5. ...
 
 
 Nächster Stammtisch ist am 19.05.2020 mit einem Vortrag von Harvey.
