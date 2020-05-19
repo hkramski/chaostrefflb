@@ -5,7 +5,7 @@ title: "Kurzprotokoll 19.05.2020"
 ---
 
 Chaostreff-relevante Punkte:
-1. Ein gemeinsamer Treff mit dem CCCS wäre nett. Wir gehen mal in die Terminfindung.
+1. Ein gemeinsamer Abend mit dem CCCS wäre auch mal nett. Wir gehen in die Terminfindung.
 
 
 Einige Themen mit und ohne Links:
