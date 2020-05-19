@@ -6,7 +6,7 @@ title: "Kurzprotokoll 19.05.2020"
 
 Chaostreff-relevante Punkte:
 1. Ein gemeinsamer Abend mit dem CCCS wäre auch mal nett. Wir gehen in die Terminfindung.
-
+2. Wohin kann das Repo der Chaostreff-Website migriert werden? In der Diskussion sind die Gitea-Instanz vom CCCS und Codeberg.
 
 Einige Themen mit und ohne Links:
 1. Der Vortrag von Harvey war mit 10 Menschen gut besucht und - wie immer - sehr informativ und unterhaltsam [Folien](CompLB-Kramski-Home-Recording-20200519_v01.2.pdf)
