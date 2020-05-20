@@ -12,5 +12,5 @@ ansehen.
 1. 01.04.2020 - Harvey/Heinz: _Shell-Health-Check_ oder _Wie ich (wieder) lernte, die Shell zu lieben_ [Folien](https://complb.de/stammtisch20200401/CompLB-Kramski-Shell-Check-20200325_v02.pdf)
 2. 22.04.2020 - ampoff/Steffen: _Die National Software Reference Library_ [Folien](https://complb.de/stammtisch20200422/nsrl_short.pdf)
 3. 06.05.2020 - fritzthekit - _SIMD und neuronale Netze_
-4. 19.05.2020 - Harvey/Heinz: _Mit Spielfilm-Mitschnitten gegen den Stream schwimmen_ [Folien](https://complb.de/stammtisch2020519/CompLB-Kramski-Home-Recording-20200519_v01.2.pdf)
+4. 19.05.2020 - Harvey/Heinz: _Mit Spielfilm-Mitschnitten gegen den Stream schwimmen_ [Folien](https://complb.de/stammtisch20200519/CompLB-Kramski-Home-Recording-20200519_v01.2.pdf)
 5. 16.06.2020 - ampoff/Steffen: _Ansible und AWX_ oder _Langweilige Tasks automatisieren, mehr Zeit für alles andere_
