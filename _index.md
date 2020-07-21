@@ -12,7 +12,7 @@ Der Chaostreff Ludwigsburg ist ein lockeres Zusammentreffen von Hackern, die sic
 
 #### Wann und Wo trefft ihr euch?
 
-Das nächste Treffen findet am 05.08.2020 umd 19:42 im t.b.a. statt.
+Das nächste Treffen findet am 05.08.2020 um 19:42 im t.b.a. statt.
 
 
 Du erreichst uns außerdem per Mail über chaostreff AT complb PUNKt de
