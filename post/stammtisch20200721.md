@@ -7,13 +7,11 @@ title: "Kurzprotokoll 21.07.2020"
 
 Chaostreff-relevante Punkte:
 
-1. Der nächste Chaostreff findet wieder im Meatspace statt! 
+Der nächste Chaostreff findet wieder im Meatspace statt! 
 
-Datum: 05.08.2020
-
-Uhrzeit: 19:42
-
-Ort: t.b.a.
+    - Datum: 05.08.2020
+    - Uhrzeit: 19:42
+    - Ort: t.b.a.
 
 
 Einige Themen mit und ohne Links:
