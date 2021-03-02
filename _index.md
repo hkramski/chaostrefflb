@@ -12,8 +12,8 @@ Der Chaostreff Ludwigsburg ist ein lockeres Zusammentreffen von Hackern, die sic
 
 #### Wann und Wo trefft ihr euch?
 
-Der nächste RL-Termin steht auf Grund von Covid-19 noch nicht fest. Aktuell trifft man uns auf https://matrix.complb.de
-(#chaostreff:matrix.complb.de) und zwei Mal im Monat bei Jitsi (https://complb.de/stammtisch20200506/)
+Das nächste Treffen findet am 05.08.2020 um 19:42 im t.b.a. statt.
+
 
 Du erreichst uns außerdem per Mail über chaostreff AT complb PUNKt de
 
